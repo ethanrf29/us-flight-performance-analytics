@@ -7,10 +7,10 @@ An end-to-end business intelligence and data analytics project analyzing over **
 ## Dashboard Preview
 
 ### Main Operational Overview
-![Dashboard Overview](Screenshot%202026-11-11%20143846.png)
+<img src="Screenshot%202026-11-11%20143846.png" width="700" alt="Dashboard Overview">
 
 ### Data Architecture & Relational Model
-![Data Model](Screenshot%202026-11-11%20144121.png)
+<img src="Screenshot%202026-11-11%20144121.png" width="700" alt="Data Model">
 
 ---
 
